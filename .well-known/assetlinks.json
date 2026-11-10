@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "messenger.smartgram",
+        "sha256_cert_fingerprints": ["06:B6:5C:72:82:55:0C:00:08:EB:C4:98:D7:72:1A:04:D6:94:AA:CA:67:F9:C5:45:76:40:A4:F4:DF:F1:52:79"]
+      }
+    }]
