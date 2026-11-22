@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "messenger.smartgram",
-        "sha256_cert_fingerprints": ["06:B6:5C:72:82:55:0C:00:08:EB:C4:98:D7:72:1A:04:D6:94:AA:CA:67:F9:C5:45:76:40:A4:F4:DF:F1:52:79"]
+        "package_name": "app.smartgram.messenger",
+        "sha256_cert_fingerprints": ["C9:E0:A5:81:C4:60:F6:0D:7E:36:C5:D5:4F:2A:25:39:F8:55:BF:18:67:A0:38:77:34:22:F1:D0:04:63:CF:64"]
       }
     }]
